@@ -1,10 +1,11 @@
 # snzy.me
-sean harlan knight's portfolio site
-this site is currently under construction.
-please check back soon for a complete portfolio.
-
-for portfolio examples, feel free to e-mail:
-sknight8@avc.edu
-snzyco@gmail.com
-
+sean harlan knight's portfolio site<br>
+this site is currently under construction.<br>
+please check back soon for a complete portfolio.<br>
+<br>
+for portfolio examples, feel free to e-mail:<br>
+<br>
+sknight8@avc.edu<br>
+snzyco@gmail.com<br>
+<br>
 17 december 2018
