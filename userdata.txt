@@ -1,258 +1,253 @@
-First Name [Required],Last Name [Required],Email Address [Required],Status [READ ONLY],Last Sign In [READ ONLY],Email Usage [READ ONLY]
-Aaron,Reyes,reyesa21@avphs.net,Active,2019/03/13 13:57:40,0.07GB
-Aaron,Roose,roosea17@avphs.net,Active,2018/04/27 00:13:35,3.1GB
-Aaron,Cooper,coopera17@avphs.net,Active,2019/01/11 11:27:46,2.28GB
-Aaron,Vigilante,vigilantea18@avphs.net,Active,2019/03/03 14:16:22,1.51GB
-Abbey,Hood,ahood@avphs.net,Active,2019/03/10 14:05:54,1.04GB
-Abbey,Hood,ahood@paracletehs.org,Active,2019/03/07 06:44:11,0.15GB
-Abigayle,Smith,smitha17@avphs.net,Active,2018/05/18 11:03:45,1.39GB
-Abraham,Balsam,balsama18@avphs.net,Active,2019/03/16 23:42:43,0.1GB
-Abran,Elenes,elenesa22@avphs.net,Active,2019/02/20 11:34:55,0.19GB
-Abree,Fry,frya22@avphs.net,Active,2019/03/08 09:08:17,0.06GB
-Achilles,Marlborough,marlborougha21@avphs.net,Active,2019/03/07 09:09:35,0.3GB
-Adam,Dybdahl,dybdahla19@avphs.net,Active,2019/03/14 09:05:12,2.2GB
-Adrian,Bermudez,bermudeza21@avphs.net,Active,2019/03/12 19:36:37,0.2GB
-Adriana,Orozco,orozcoa22@avphs.net,Active,2019/03/16 09:08:33,0.07GB
-Ahmik,Shenoy,shenoya19@avphs.net,Active,2019/03/01 08:40:48,0.87GB
-Aidan,Aoun,aouna22@avphs.net,Active,2019/03/07 10:52:16,0.04GB
-Aidan,Miller,millera22@avphs.net,Active,2019/03/08 14:12:59,0.08GB
-Aidan,Poole,poolea17@avphs.net,Active,2015/02/17 18:33:13,0.23GB
-Aidan,Rivera,riveraa22@avphs.net,Active,2019/03/06 13:29:39,0.12GB
-Aiden,Krampitz,krampitza18@avphs.net,Active,2018/02/18 13:55:50,2.19GB
-Aileen,Maciel,maciela17@avphs.net,Active,Never logged in,0.03GB
-Aimee,Pierson,apierson@paracletehs.org,Active,2018/10/12 07:38:57,0.43GB
-Aimee,Pierson,apierson@avphs.net,Active,2019/03/10 13:27:08,0.23GB
-Alaina,Moreno,morenoa22@avphs.net,Active,2019/02/22 07:21:04,0.02GB
-Alan,Rennie,renniea20@avphs.net,Active,2019/03/04 10:38:19,0.12GB
-Alayna,Hernandez,hernandeza22@avphs.net,Active,2019/03/15 08:25:51,0.03GB
-Albert,Andres,andresa17@avphs.net,Active,2019/03/02 16:53:11,2.28GB
-Albert,Landa,alanda@avphs.net,Active,2019/03/17 08:43:07,4.1GB
-Albert,Landa,alanda@paracletehs.org,Active,2018/09/04 17:20:53,0.65GB
-Aleah,Gonzalez,gonzaleza20@avphs.net,Active,2017/08/12 21:24:06,0.34GB
-Alec,Justice,justicea19@avphs.net,Active,2019/03/13 10:17:45,0.86GB
-Alec,Maldonado,maldonadoa17@avphs.net,Active,2018/07/01 21:38:09,0.27GB
-Aleena,Espindola,espindolaa22@avphs.net,Active,2019/03/14 08:19:56,0.07GB
-Aleni,Rogers,rogersa20@avphs.net,Active,2019/03/12 12:54:48,2.17GB
-Alex,Watfa,watfaa20@avphs.net,Active,2019/03/05 21:24:47,0.23GB
-Alex,Soliz,soliza17@avphs.net,Active,2017/11/23 01:25:53,3.16GB
-Alexa,Garcia,garciaj22@avphs.net,Active,2019/03/14 09:11:58,0.04GB
-Alexa,Tipps,tippsa22@avphs.net,Active,2019/03/03 20:32:07,0.25GB
-Alexa,GalindoVaquiz,galindovaquiza22@avphs.net,Active,2019/02/20 08:41:30,0.03GB
-Alexander,Chamitoff,chamitoffa19@avphs.net,Active,2019/03/15 08:45:13,0.24GB
-Alexander,Williams,williamsa@avphs.net,Active,2015/09/20 00:56:59,0.94GB
-Alexander,Gutierrez,gutierreza21@avphs.net,Active,2019/03/05 07:15:47,0.11GB
-AlexandraMarie,London,londona21@avphs.net,Active,2019/03/11 09:47:12,0.1GB
-Alexis,delaCruz,delacruza18@avphs.net,Suspended,2018/12/09 10:51:39,2.02GB
-Alexis,Bennett,bennetta17@avphs.net,Active,2015/06/08 20:44:09,0.79GB
-Alexis,Fernandez,fernandeza22@avphs.net,Active,2019/03/17 09:07:41,0.25GB
-Alexis,Armenta,armentaa20@avphs.net,Active,2019/03/07 08:07:02,0.96GB
-Alexis,Olvera,olveraa21@avphs.net,Active,2019/03/10 14:22:31,0.12GB
-Alexis,Zepeda,zepedaa20@avphs.net,Active,2019/03/09 21:09:40,1.66GB
-algebra,anson,algebraanson@avphs.net,Active,2015/08/20 21:27:48,0.0GB
-Alicia,Paliza,palizaa17@avphs.net,Active,2019/02/06 03:22:43,0.61GB
-Alicia,Polite,politea20@avphs.net,Active,Never logged in,0.02GB
-Alina,Alcaraz,alcaraza18@avphs.net,Active,2018/08/25 01:50:34,0.77GB
-Alissa,Aguilar,aguilara22@avphs.net,Active,2019/02/20 11:34:57,0.18GB
-Alizaja,Raheem,raheema20@avphs.net,Active,2018/05/03 13:49:19,0.16GB
-Allen,Rose,rosea21@avphs.net,Active,2019/03/13 21:02:12,0.07GB
-Allissa,Gordon,gordona19@avphs.net,Active,2019/03/13 08:03:26,0.4GB
-Allunzoe,Jones,jonesa17@avphs.net,Active,2017/07/26 18:41:55,1.01GB
-Allyson,Alvarado,alvaradoa19@avphs.net,Active,2019/03/15 06:48:36,1.54GB
-Alondra,Mancilla,mancillaa22@avphs.net,Active,2019/03/02 18:32:33,0.06GB
-AlvieMarie,London,londona17@avphs.net,Active,2017/06/26 21:35:36,1.75GB
-Alyssa,Moreno,morenoa21@avphs.net,Active,2019/03/04 22:35:05,0.19GB
-Alyssa,Hazard,hazarda19@avphs.net,Active,2019/03/13 20:25:57,0.33GB
-Alyssa,Gill,gilla22@avphs.net,Active,2019/03/08 11:45:07,0.04GB
-Alyssa,Pena,penaa22@avphs.net,Active,2018/08/31 07:33:07,0.01GB
-Amado,Coleman,colemana21@avphs.net,Active,2019/02/04 11:03:35,0.07GB
-Amanda,Stadler,stadlera16@avphs.net,Active,2016/03/20 17:07:45,1.27GB
-Amanda,Andres,andresa22@avphs.net,Active,2019/03/16 23:47:44,0.06GB
-Amanda,Just,justa18@avphs.net,Active,2019/01/16 19:31:34,2.22GB
-Amanda,Soto,sotoa19@avphs.net,Active,2019/03/13 10:17:39,1.74GB
-Amanda,Cecil,cecila17@avphs.net,Active,2018/05/03 20:00:10,1.49GB
-Amber,Kersanty,kersantya20@avphs.net,Active,2019/03/08 10:16:24,0.47GB
-Amber,Marvin,marvina17@avphs.net,Active,2014/08/01 08:16:46,0.11GB
-Amber,Fowler,afowler@paracletehs.org,Active,2019/01/08 09:53:02,0.03GB
-Amber,Brandmeyer,brandmeyera17@avphs.net,Active,2019/03/06 21:02:28,0.02GB
-Amber,Hartenstine,hartenstinea20@avphs.net,Active,2019/03/17 08:35:42,0.6GB
-Amber,Fowler,afowler@avphs.net,Active,2019/03/15 19:43:19,0.18GB
-Amir,Bankhead,bankheada21@avphs.net,Active,2019/02/26 12:59:42,0.28GB
-Amiya,ThompsonJerro,thompsonjerroa17@avphs.net,Active,2017/05/09 12:26:18,2.42GB
-Amy,King,king18@avphs.net,Active,2015/04/02 10:01:07,0.01GB
-Amy,King,kinga18@avphs.net,Active,2014/12/19 12:43:01,0.03GB
-Amy,Roldan,roldana17@avphs.net,Active,2015/01/05 14:31:31,0.07GB
-Anabelle,Gamboa,gamboaa20@avphs.net,Active,2019/03/01 07:13:07,1.25GB
-Anabelle,Cleare,clearea17@avphs.net,Active,2018/01/12 18:32:03,0.95GB
-Andrew,Brannon,brannona16@avphs.net,Active,2016/06/23 10:17:16,0.13GB
-Andrew,Cruz,cruza21@avphs.net,Active,2018/05/31 15:43:51,0.02GB
-Andrew,Takayama,takayamaa19@avphs.net,Active,2019/03/13 16:32:39,1.16GB
-Andrew,BrisonOlmos,brisonolmosa21@avphs.net,Active,2019/03/05 07:09:59,0.24GB
-Andrew,Gavel,agavel@avphs.net,Active,2018/10/23 06:07:44,0.69GB
-Andrew,Gavel,agavel@paracletehs.org,Active,2018/09/14 10:33:55,0.09GB
-Andrew,Peck,pecka17@avphs.net,Active,2013/12/12 15:39:58,0.02GB
-Andrew,Arellano,arellanoa16@avphs.net,Active,2019/03/12 21:23:06,0.11GB
-Andrew,Dusablon,dusablona20@avphs.net,Active,2019/03/06 21:15:17,0.64GB
-Andrew,Cosme,cosmea22@avphs.net,Active,2019/03/05 08:20:55,0.0GB
-Andrew,Javorsek,javorseka22@avphs.net,Active,2019/02/14 09:00:12,0.06GB
-Andrew,Arciga,arcigaa19@avphs.net,Active,2019/03/03 13:25:07,1.25GB
-Andy,Helme,ahelme@avphs.net,Active,2018/06/20 18:44:36,0.01GB
-Andy,Watfa,watfaa17@avphs.net,Active,2019/03/13 16:21:44,1.84GB
-Angel,Maida,maidaa17@avphs.net,Active,2017/06/01 10:36:32,2.19GB
-Angela,Fields,afields@avphs.net,Suspended,Never logged in,0.0GB
-Angela,Rodriguez,rodrigueza21@avphs.net,Active,2019/03/16 21:14:15,0.25GB
-Angela,Sanders,sandersa20@avphs.net,Active,2017/06/28 15:25:32,0.22GB
-Angela,Adelantar,adelantara20@avphs.net,Active,2019/02/28 19:15:23,1.39GB
-Angelica,Gallardo,gallardoa18@avphs.net,Active,2019/03/10 14:47:08,0.88GB
-Angelina,Paliza,palizaa21@avphs.net,Active,2018/07/24 08:40:53,0.22GB
-Angelina,Bautista,bautistaa22@avphs.net,Active,2019/03/13 08:06:38,0.11GB
-Angelina,Lopez,lopeza21@avphs.net,Active,2019/03/04 16:27:30,0.05GB
-Angelique,Costa,costaa19@avphs.net,Active,2019/03/13 09:34:46,1.49GB
-Angelo,Matulac,matulaca22@avphs.net,Active,2019/03/15 11:15:04,0.08GB
-Angie,Tzul,tzula21@avphs.net,Active,2019/03/12 07:43:56,0.28GB
-Anna,Guillermo,guillermoa17@avphs.net,Active,2017/01/10 13:59:49,2.52GB
-Annalee,Matulac,matulaca20@avphs.net,Active,2019/03/13 23:11:22,1.18GB
-Annette,Olague,aolague@avphs.net,Active,2019/02/19 08:12:00,0.31GB
-Annette,Olague,aolague@paracletehs.org,Active,2019/03/12 09:06:26,0.12GB
-Annika,Matulac,matulaca19@avphs.net,Active,2019/03/13 13:45:09,2.67GB
-AnnikkaPriya,Rodriguez,rodrigueza18@avphs.net,Active,2019/03/05 12:17:18,3.03GB
-Anthony,Garcia,garciaa22@avphs.net,Active,2019/02/20 11:35:02,0.2GB
-Anthony,Verzosa,verzosaa17@avphs.net,Active,2018/03/16 19:57:07,0.77GB
-Anthony,Guerrero,guerreroa21@avphs.net,Active,2019/03/13 08:28:29,0.02GB
-Anthony,Simmons,simmonsa21@avphs.net,Active,2019/02/21 17:13:31,0.15GB
-Anthony,Barragan,barragana18@avphs.net,Active,2019/03/17 01:03:48,3.33GB
-Anthony,Taylor,taylora19@avphs.net,Active,2019/03/13 08:03:53,1.12GB
-Anthony,Abel,abela20@avphs.net,Active,2019/03/15 09:49:09,0.62GB
-Anthony,Lopez,lopeza17@avphs.net,Active,2015/06/08 12:11:42,0.16GB
-Antonio,Sensano,sensanoa19@avphs.net,Active,2019/03/14 11:33:19,1.4GB
-App,Dist,appdist@paracletehs.org,Active,2018/08/30 14:55:42,0.0GB
-Ariana,Munoz,munoza21@avphs.net,Active,2019/02/14 08:43:06,0.15GB
-Ariana,Carlos,carlosa20@avphs.net,Active,2018/09/20 12:53:31,0.03GB
-Ariana,Hattar,hattara19@avphs.net,Active,2019/03/13 09:03:17,1.6GB
-Arianna,Foster,fostera19@avphs.net,Active,2017/01/23 18:25:16,0.22GB
-Arianna,Badilla,badillaa17@avphs.net,Active,2019/01/29 17:32:11,2.17GB
-Ariel,Wilson,wilsona20@avphs.net,Active,2019/02/28 22:11:13,0.64GB
-Armando,Cortes,cortesa19@avphs.net,Active,2019/03/14 10:04:12,0.49GB
-Arowal,Ajuet,ajueta18@avphs.net,Active,2018/04/09 09:13:09,0.75GB
-Arthur,Lopez,alopez@avphs.net,Active,2019/03/01 16:27:41,0.08GB
-Arthur,Lopez,alopez@paracletehs.org,Active,2019/03/01 11:52:13,0.03GB
-Asa,Devers,deversa21@avphs.net,Active,2019/03/07 11:35:25,0.37GB
-Asal,Esteghlal,esteghlala20@avphs.net,Active,2019/03/06 21:16:52,1.23GB
-Ashlee,Barnes,barnesa22@avphs.net,Active,2019/01/10 09:26:09,0.12GB
-Ashley,Cooper,coopera20@avphs.net,Active,2017/07/20 12:35:37,0.01GB
-Ashley,Appiah,aappiah@avphs.net,Suspended,2016/04/13 10:09:18,0.66GB
-Ashley,Roque,roquea20@avphs.net,Active,2019/03/01 08:42:50,0.08GB
-Ashtyn,Pegula,pegulaa21@avphs.net,Active,2019/03/12 00:15:58,0.68GB
-Aspen,Frey,freya20@avphs.net,Active,2019/03/01 08:49:16,0.13GB
-Atira,Shenoy,shenoya18@avphs.net,Active,2018/09/09 16:24:36,3.57GB
-Atzimba,Villalobos,avillalobos@avphs.net,Active,2019/03/05 08:43:36,1.75GB
-Atzimba,Villalobos,avillalobos@paracletehs.org,Active,2019/03/06 11:04:57,0.08GB
-Aubrey,Gilman,gilmana18@avphs.net,Active,2019/03/14 14:15:21,2.97GB
-Audra,Moreno,morenoa17@avphs.net,Active,2017/07/14 18:24:37,1.18GB
-Audrey,DeLaRosa,delarosaa21@avphs.net,Active,2019/03/16 20:21:15,0.17GB
-Austin,Lott,lotta16@avphs.net,Active,2016/03/08 11:41:55,0.06GB
-Austin,Harlow,harlowa17@avphs.net,Active,2017/06/30 16:03:03,0.0GB
-Austyn,McConnell,mcconnella21@avphs.net,Active,2017/06/27 13:53:03,0.02GB
-Autumn,HicksYoung,hicksyounga19@avphs.net,Active,2019/03/14 08:46:10,1.34GB
-Autumn,Barajas,barajasa21@avphs.net,Active,2019/03/12 10:56:15,0.15GB
-Avery,Carter,cartera18@avphs.net,Active,2017/05/31 07:10:30,0.21GB
-Azalea,Dominguez,domingueza19@avphs.net,Active,2019/03/14 08:53:21,0.86GB
-Baian,Liang,liangb18@avphs.net,Active,2016/08/15 21:12:26,0.47GB
-Bailey,Vontoure,vontoureb22@avphs.net,Active,2019/03/04 10:49:22,0.16GB
-Bailey,Whiteford,whitefordb17@avphs.net,Active,2018/06/16 07:31:01,1.49GB
-Beatriz,Alatorre,alatorreb22@avphs.net,Active,2019/02/20 08:05:28,0.15GB
-Becky,Singleton,singletonb18@avphs.net,Active,2019/03/16 17:41:03,3.53GB
-Belen,Trejo,trejob21@avphs.net,Active,2019/03/15 01:39:04,0.17GB
-Benjamin,Estaville,estavilleb21@avphs.net,Active,2019/03/12 11:34:11,0.13GB
-Benjamin,Waring,waringb20@avphs.net,Active,2019/03/06 07:33:30,0.19GB
-Benjamin,Haering,haeringb19@avphs.net,Active,2019/03/08 07:30:29,2.21GB
-Benjamin,Rouzan,rouzanb21@avphs.net,Active,2019/03/14 08:53:47,0.22GB
-Beth,Pierson,bpierson@avphs.net,Active,2019/03/15 09:33:34,0.08GB
-Beth,Pierson,bpierson@paracletehs.org,Active,2019/03/04 12:04:36,1.56GB
-Bethany,Thompson,thompsonb17@avphs.net,Active,2014/12/18 11:41:53,0.08GB
-Betsabe,Lorenzo,lorenzob22@avphs.net,Active,2019/03/06 20:13:44,0.29GB
-Bianca,Swaby,swabyb21@avphs.net,Active,2019/02/16 08:08:26,0.22GB
-Bobbi,Cole,coleb21@avphs.net,Active,2019/02/26 09:21:47,0.13GB
-Bobby,Brown,brownb17@avphs.net,Active,2019/03/14 14:12:13,1.91GB
-Bonnie,Sensano,sensanob20@avphs.net,Active,2019/03/06 07:33:40,0.14GB
-Bowen,Zheng,zhengb17@avphs.net,Active,2016/11/27 23:27:19,0.19GB
-Bradley,Bedgood,bedgoodb19@avphs.net,Active,2019/03/13 09:21:34,1.43GB
-Bradley,Fiorella,fiorella19@avphs.net,Active,2019/03/14 10:56:33,0.68GB
-Bradly,Harris,harrisb22@avphs.net,Active,2019/02/20 10:54:15,0.01GB
-Branden,Smith,smithb17@avphs.net,Active,2018/09/29 07:59:27,3.17GB
-Brandon,Rouzan,rouzanb18@avphs.net,Active,2019/02/15 12:43:33,0.36GB
-Brandon,Floyd,floydb16@avphs.net,Active,2019/03/13 16:00:23,2.98GB
-Brandon,Link,linkb16@avphs.net,Active,2016/07/30 15:53:51,0.59GB
-Brandon,Noriega,noriegab22@avphs.net,Active,2019/03/05 08:22:13,0.04GB
-Brandon,Gumayagay,gumayagayb19@avphs.net,Active,2019/03/16 11:07:26,2.54GB
-Brandon,Julio,juliob19@avphs.net,Active,2019/03/15 20:09:09,0.2GB
-Braxtin,Wilson,wilsonbd16@avphs.net,Active,2019/03/08 20:05:12,1.59GB
-Breanna,Spragin,spraginb17@avphs.net,Active,2016/06/04 14:57:27,0.11GB
-Breckee,Horney,horneyb17@avphs.net,Active,2018/08/19 19:04:57,0.44GB
-Breena,Hall,hallb21@avphs.net,Active,2019/03/13 19:20:58,0.46GB
-Brendan,Schoorl,schoorlb18@avphs.net,Active,2018/11/11 02:43:42,0.46GB
-Brennon,Mercier,mercierb19@avphs.net,Active,2019/03/01 08:43:02,1.32GB
-Brett,Nelson,bnelson@avphs.net,Active,2018/12/13 11:06:31,0.18GB
-Brian,Mubarkeh,mubarkehb17@avphs.net,Active,2018/02/13 22:01:45,0.38GB
-Brian,Aguilar,aguilarb22@avphs.net,Active,2019/03/05 08:20:36,0.07GB
-Briana,Serrato,serratob18@avphs.net,Active,2018/11/11 19:57:16,1.32GB
-Briana,Cacho,cachob17@avphs.net,Active,2019/01/27 17:08:07,2.4GB
-Brianna,Talbot,talbotb15@avphs.net,Active,2015/06/15 23:46:55,0.02GB
-Brianna,Gunderson,gundersonb18@avphs.net,Active,2018/11/04 16:34:00,1.01GB
-Brianna,Simpson,simpsonb20@avphs.net,Active,2019/03/07 15:35:45,0.59GB
-Brianna,Smith,smithb19@avphs.net,Active,2019/03/13 11:19:35,1.07GB
-Brittany,Cooper,cooperb15@avphs.net,Active,2015/05/22 08:44:51,0.86GB
-Brittany,Fiorella,fiorellab19@avphs.net,Active,2019/03/14 11:23:43,0.13GB
-Brittany,Brigham,brighamb18@avphs.net,Active,2015/12/30 23:59:11,0.32GB
-Brock,Larrick,larrickb20@avphs.net,Active,2019/03/01 08:41:17,0.29GB
-Brooke,Link,linkb19@avphs.net,Active,2019/03/05 10:52:53,2.19GB
-Brooke,Walsh,walshb18@avphs.net,Active,2019/01/06 22:50:01,1.52GB
-Brooke,Marvin,marvinb17@avphs.net,Active,2017/04/27 23:21:28,1.66GB
-Brooklyn,BrooksYoung,brooksyoungb20@avphs.net,Active,2019/03/07 03:47:36,0.46GB
-Bryan,Peck,peckb21@avphs.net,Active,2019/01/30 11:44:23,0.13GB
-Bryan,Salgado,salgadob17@avphs.net,Active,2017/09/04 13:35:05,0.5GB
-Bryant,Obiekea,obiekeab20@avphs.net,Active,2017/06/06 21:41:56,0.03GB
-Bryce,Wygant,wygantb19@avphs.net,Active,2019/03/13 13:47:04,0.81GB
-Bryce,Hopkins,hopkinsb19@avphs.net,Active,2017/08/08 08:54:58,0.19GB
-Byron,Brown,brownb22@avphs.net,Active,2018/07/02 09:12:46,0.01GB
-Caiden,Lara,larac22@avphs.net,Active,2019/03/04 08:48:51,0.11GB
-Cailin,Larimore,larimorec19@avphs.net,Active,2019/03/14 08:56:44,0.74GB
-Caitlin,Chan,chanc18@avphs.net,Active,2018/11/28 14:39:52,3.4GB
-Caitlin,Zuchowski,zuchowskic@avphs.net,Active,2018/08/16 17:41:10,1.6GB
-Caleb,Gardner,gardnerc22@avphs.net,Active,2019/03/07 13:23:41,0.03GB
-Callahan,Blischke,blischkec19@avphs.net,Active,2019/03/01 08:21:56,0.29GB
-Calvind,Macaraig,macaraigc20@avphs.net,Active,2019/03/12 12:58:12,1.33GB
-Cameron,Turner,turnerc19@avphs.net,Active,2019/03/11 16:36:29,1.01GB
-Cameron,Estes,estesc22@avphs.net,Active,2019/03/05 08:58:37,0.09GB
-Cameron,Olive,olivec19@avphs.net,Active,2019/03/14 11:18:02,0.24GB
-Camya,BookerGibson,bookergibsonc21@avphs.net,Active,2019/03/13 22:10:19,0.29GB
-Candace,Zuchowski,zuchowskic17@avphs.net,Active,2019/03/11 16:44:21,2.51GB
-Candice,Cortes,cortesc21@avphs.net,Active,2019/03/15 11:22:28,0.21GB
-Canon,Admin,canadmin@paracletehs.org,Active,2019/02/21 15:14:04,0.0GB
-Carissa,Brown,cbrown@avphs.net,Suspended,2018/08/17 21:17:25,2.66GB
-Carl,Ladensack,cladensack@paracletehs.org,Active,2019/01/14 07:24:02,0.08GB
-Carl,Ladensack,cladensack@avphs.net,Active,2018/10/05 14:31:04,0.03GB
-Carlo,Morones,moronesc17@avphs.net,Active,2017/04/29 12:47:35,0.18GB
-Carlos,Serna,sernac22@avphs.net,Active,2019/02/20 11:35:15,0.1GB
-Carlos,Morales,moralesc22@avphs.net,Active,2019/03/13 10:32:29,0.05GB
-Carly,Sablan,sablanc19@avphs.net,Active,2019/03/16 23:08:58,1.89GB
-Carly,Pimentel,pimentelc22@avphs.net,Active,2019/03/12 17:48:11,0.04GB
-Carly,Hooten,hootenc20@avphs.net,Active,2019/03/15 10:00:24,0.85GB
-Carolina,Cotero,coteroc22@avphs.net,Active,2019/03/14 22:26:39,0.05GB
-Carolina,Galvan,galvanc21@avphs.net,Active,2019/03/13 17:57:56,0.49GB
-Carolyn,Hibbert,hibbertc20@avphs.net,Active,2019/03/14 11:47:16,0.4GB
-Carson,Davis,davisc20@avphs.net,Active,2019/03/01 08:41:34,0.2GB
-Carter,Dickinson,dickinsonc18@avphs.net,Active,2019/01/11 13:55:44,0.54GB
-Casi,Petrosian,petrosianc22@avphs.net,Active,2019/03/01 08:22:46,0.07GB
-Cassandra,Castillo,castilloc21@avphs.net,Active,2019/03/16 14:03:34,0.16GB
-Cassandra,Buckley,buckleyc19@avphs.net,Active,2019/03/03 21:50:29,1.33GB
-Cassidy,Loprino,loprinoc20@avphs.net,Active,2019/03/04 08:14:22,0.37GB
-Cassie,Velazquez,velazquezc21@avphs.net,Active,2019/03/16 16:42:46,1.32GB
-Cassity,Columbo,columboc19@avphs.net,Active,2018/04/11 07:37:32,0.19GB
-Catherine,Lacsamana,lacsamanac17@avphs.net,Active,2017/09/14 21:05:04,3.16GB
-Catherine,Singleton,singletonc21@avphs.net,Active,2019/03/14 13:51:44,0.19GB
-Cavoseay,Fisher,fisherc22@avphs.net,Active,2019/02/20 08:06:01,0.13GB
-Cecilie,Petersen,petersenc17@avphs.net,Active,2016/05/10 13:01:20,0.07GB
-Charisma,Stafford,staffordc17@avphs.net,Active,2014/02/21 11:23:15,0.02GB
+Aaron,Reyes,reyesa21@avphs.net,
+Aaron,Roose,roosea17@avphs.net,
+Aaron,Cooper,coopera17@avphs.net,
+Aaron,Vigilante,vigilantea18@avphs.net,
+Abbey,Hood,ahood@avphs.net,
+Abbey,Hood,ahood@paracletehs.org,
+Abigayle,Smith,smitha17@avphs.net,
+Abraham,Balsam,balsama18@avphs.net,
+Abran,Elenes,elenesa22@avphs.net,
+Abree,Fry,frya22@avphs.net,
+Achilles,Marlborough,marlborougha21@avphs.net,
+Adam,Dybdahl,dybdahla19@avphs.net,
+Adrian,Bermudez,bermudeza21@avphs.net,
+Adriana,Orozco,orozcoa22@avphs.net,
+Ahmik,Shenoy,shenoya19@avphs.net,
+Aidan,Aoun,aouna22@avphs.net,
+Aidan,Miller,millera22@avphs.net,
+Aidan,Poole,poolea17@avphs.net,
+Aidan,Rivera,riveraa22@avphs.net,
+Aiden,Krampitz,krampitza18@avphs.net,
+Aileen,Maciel,maciela17@avphs.net,
+Aimee,Pierson,apierson@paracletehs.org,
+Aimee,Pierson,apierson@avphs.net,
+Alaina,Moreno,morenoa22@avphs.net,
+Alan,Rennie,renniea20@avphs.net,
+Alayna,Hernandez,hernandeza22@avphs.net,
+Albert,Andres,andresa17@avphs.net,
+Albert,Landa,alanda@avphs.net,
+Albert,Landa,alanda@paracletehs.org,
+Aleah,Gonzalez,gonzaleza20@avphs.net,
+Alec,Justice,justicea19@avphs.net,
+Alec,Maldonado,maldonadoa17@avphs.net,
+Aleena,Espindola,espindolaa22@avphs.net,
+Aleni,Rogers,rogersa20@avphs.net,
+Alex,Watfa,watfaa20@avphs.net,
+Alex,Soliz,soliza17@avphs.net,
+Alexa,Garcia,garciaj22@avphs.net,
+Alexa,Tipps,tippsa22@avphs.net,
+Alexa,GalindoVaquiz,galindovaquiza22@avphs.net,
+Alexander,Chamitoff,chamitoffa19@avphs.net,
+Alexander,Williams,williamsa@avphs.net,
+Alexander,Gutierrez,gutierreza21@avphs.net,
+AlexandraMarie,London,londona21@avphs.net,
+Alexis,Bennett,bennetta17@avphs.net,
+Alexis,Fernandez,fernandeza22@avphs.net,
+Alexis,Armenta,armentaa20@avphs.net,
+Alexis,Olvera,olveraa21@avphs.net,
+Alexis,Zepeda,zepedaa20@avphs.net,
+algebra,anson,algebraanson@avphs.net,
+Alicia,Paliza,palizaa17@avphs.net,
+Alicia,Polite,politea20@avphs.net,
+Alina,Alcaraz,alcaraza18@avphs.net,
+Alissa,Aguilar,aguilara22@avphs.net,
+Alizaja,Raheem,raheema20@avphs.net,
+Allen,Rose,rosea21@avphs.net,
+Allissa,Gordon,gordona19@avphs.net,
+Allunzoe,Jones,jonesa17@avphs.net,
+Allyson,Alvarado,alvaradoa19@avphs.net,
+Alondra,Mancilla,mancillaa22@avphs.net,
+AlvieMarie,London,londona17@avphs.net,
+Alyssa,Moreno,morenoa21@avphs.net,
+Alyssa,Hazard,hazarda19@avphs.net,
+Alyssa,Gill,gilla22@avphs.net,
+Alyssa,Pena,penaa22@avphs.net,
+Amado,Coleman,colemana21@avphs.net,
+Amanda,Stadler,stadlera16@avphs.net,
+Amanda,Andres,andresa22@avphs.net,
+Amanda,Just,justa18@avphs.net,
+Amanda,Soto,sotoa19@avphs.net,
+Amanda,Cecil,cecila17@avphs.net,
+Amber,Kersanty,kersantya20@avphs.net,
+Amber,Marvin,marvina17@avphs.net,
+Amber,Fowler,afowler@paracletehs.org,
+Amber,Brandmeyer,brandmeyera17@avphs.net,
+Amber,Hartenstine,hartenstinea20@avphs.net,
+Amber,Fowler,afowler@avphs.net,
+Amir,Bankhead,bankheada21@avphs.net,
+Amiya,ThompsonJerro,thompsonjerroa17@avphs.net,
+Amy,King,king18@avphs.net,
+Amy,King,kinga18@avphs.net,
+Amy,Roldan,roldana17@avphs.net,
+Anabelle,Gamboa,gamboaa20@avphs.net,
+Anabelle,Cleare,clearea17@avphs.net,
+Andrew,Brannon,brannona16@avphs.net,
+Andrew,Cruz,cruza21@avphs.net,
+Andrew,Takayama,takayamaa19@avphs.net,
+Andrew,BrisonOlmos,brisonolmosa21@avphs.net,
+Andrew,Gavel,agavel@avphs.net,
+Andrew,Gavel,agavel@paracletehs.org,
+Andrew,Peck,pecka17@avphs.net,
+Andrew,Arellano,arellanoa16@avphs.net,
+Andrew,Dusablon,dusablona20@avphs.net,
+Andrew,Cosme,cosmea22@avphs.net,
+Andrew,Javorsek,javorseka22@avphs.net,
+Andrew,Arciga,arcigaa19@avphs.net,
+Andy,Helme,ahelme@avphs.net,
+Andy,Watfa,watfaa17@avphs.net,
+Angel,Maida,maidaa17@avphs.net,
+Angela,Rodriguez,rodrigueza21@avphs.net,
+Angela,Sanders,sandersa20@avphs.net,
+Angela,Adelantar,adelantara20@avphs.net,
+Angelica,Gallardo,gallardoa18@avphs.net,
+Angelina,Paliza,palizaa21@avphs.net,
+Angelina,Bautista,bautistaa22@avphs.net,
+Angelina,Lopez,lopeza21@avphs.net,
+Angelique,Costa,costaa19@avphs.net,
+Angelo,Matulac,matulaca22@avphs.net,
+Angie,Tzul,tzula21@avphs.net,
+Anna,Guillermo,guillermoa17@avphs.net,
+Annalee,Matulac,matulaca20@avphs.net,
+Annette,Olague,aolague@avphs.net,
+Annette,Olague,aolague@paracletehs.org,
+Annika,Matulac,matulaca19@avphs.net,
+AnnikkaPriya,Rodriguez,rodrigueza18@avphs.net,
+Anthony,Garcia,garciaa22@avphs.net,
+Anthony,Verzosa,verzosaa17@avphs.net,
+Anthony,Guerrero,guerreroa21@avphs.net,
+Anthony,Simmons,simmonsa21@avphs.net,
+Anthony,Barragan,barragana18@avphs.net,
+Anthony,Taylor,taylora19@avphs.net,
+Anthony,Abel,abela20@avphs.net,
+Anthony,Lopez,lopeza17@avphs.net,
+Antonio,Sensano,sensanoa19@avphs.net,
+App,Dist,appdist@paracletehs.org,
+Ariana,Munoz,munoza21@avphs.net,
+Ariana,Carlos,carlosa20@avphs.net,
+Ariana,Hattar,hattara19@avphs.net,
+Arianna,Foster,fostera19@avphs.net,
+Arianna,Badilla,badillaa17@avphs.net,
+Ariel,Wilson,wilsona20@avphs.net,
+Armando,Cortes,cortesa19@avphs.net,
+Arowal,Ajuet,ajueta18@avphs.net,
+Arthur,Lopez,alopez@avphs.net,
+Arthur,Lopez,alopez@paracletehs.org,
+Asa,Devers,deversa21@avphs.net,
+Asal,Esteghlal,esteghlala20@avphs.net,
+Ashlee,Barnes,barnesa22@avphs.net,
+Ashley,Cooper,coopera20@avphs.net,
+Ashley,Roque,roquea20@avphs.net,
+Ashtyn,Pegula,pegulaa21@avphs.net,
+Aspen,Frey,freya20@avphs.net,
+Atira,Shenoy,shenoya18@avphs.net,
+Atzimba,Villalobos,avillalobos@avphs.net,
+Atzimba,Villalobos,avillalobos@paracletehs.org,
+Aubrey,Gilman,gilmana18@avphs.net,
+Audra,Moreno,morenoa17@avphs.net,
+Audrey,DeLaRosa,delarosaa21@avphs.net,
+Austin,Lott,lotta16@avphs.net,
+Austin,Harlow,harlowa17@avphs.net,
+Austyn,McConnell,mcconnella21@avphs.net,
+Autumn,HicksYoung,hicksyounga19@avphs.net,
+Autumn,Barajas,barajasa21@avphs.net,
+Avery,Carter,cartera18@avphs.net,
+Azalea,Dominguez,domingueza19@avphs.net,
+Baian,Liang,liangb18@avphs.net,
+Bailey,Vontoure,vontoureb22@avphs.net,
+Bailey,Whiteford,whitefordb17@avphs.net,
+Beatriz,Alatorre,alatorreb22@avphs.net,
+Becky,Singleton,singletonb18@avphs.net,
+Belen,Trejo,trejob21@avphs.net,
+Benjamin,Estaville,estavilleb21@avphs.net,
+Benjamin,Waring,waringb20@avphs.net,
+Benjamin,Haering,haeringb19@avphs.net,
+Benjamin,Rouzan,rouzanb21@avphs.net,
+Beth,Pierson,bpierson@avphs.net,
+Beth,Pierson,bpierson@paracletehs.org,
+Bethany,Thompson,thompsonb17@avphs.net,
+Betsabe,Lorenzo,lorenzob22@avphs.net,
+Bianca,Swaby,swabyb21@avphs.net,
+Bobbi,Cole,coleb21@avphs.net,
+Bobby,Brown,brownb17@avphs.net,
+Bonnie,Sensano,sensanob20@avphs.net,
+Bowen,Zheng,zhengb17@avphs.net,
+Bradley,Bedgood,bedgoodb19@avphs.net,
+Bradley,Fiorella,fiorella19@avphs.net,
+Bradly,Harris,harrisb22@avphs.net,
+Branden,Smith,smithb17@avphs.net,
+Brandon,Rouzan,rouzanb18@avphs.net,
+Brandon,Floyd,floydb16@avphs.net,
+Brandon,Link,linkb16@avphs.net,
+Brandon,Noriega,noriegab22@avphs.net,
+Brandon,Gumayagay,gumayagayb19@avphs.net,
+Brandon,Julio,juliob19@avphs.net,
+Braxtin,Wilson,wilsonbd16@avphs.net,
+Breanna,Spragin,spraginb17@avphs.net,
+Breckee,Horney,horneyb17@avphs.net,
+Breena,Hall,hallb21@avphs.net,Active,
+Brendan,Schoorl,schoorlb18@avphs.net,
+Brennon,Mercier,mercierb19@avphs.net,
+Brett,Nelson,bnelson@avphs.net,
+Brian,Mubarkeh,mubarkehb17@avphs.net,
+Brian,Aguilar,aguilarb22@avphs.net,
+Briana,Serrato,serratob18@avphs.net,
+Briana,Cacho,cachob17@avphs.net,
+Brianna,Talbot,talbotb15@avphs.net,
+Brianna,Gunderson,gundersonb18@avphs.net;
+Brianna,Simpson,simpsonb20@avphs.net;
+Brianna,Smith,smithb19@avphs.net;
+Brittany,Cooper,cooperb15@avphs.net;
+Brittany,Fiorella,fiorellab19@avphs.net;
+Brittany,Brigham,brighamb18@avphs.net;
+Brock,Larrick,larrickb20@avphs.net;
+Brooke,Link,linkb19@avphs.net;
+Brooke,Walsh,walshb18@avphs.net;
+Brooke,Marvin,marvinb17@avphs.net;
+Brooklyn,BrooksYoung,brooksyoungb20@avphs.net;
+Bryan,Peck,peckb21@avphs.net;
+Bryan,Salgado,salgadob17@avphs.net;
+Bryant,Obiekea,obiekeab20@avphs.net;
+Bryce,Wygant,wygantb19@avphs.net;
+Bryce,Hopkins,hopkinsb19@avphs.net;
+Byron,Brown,brownb22@avphs.net;
+Caiden,Lara,larac22@avphs.net;
+Cailin,Larimore,larimorec19@avphs.net;
+Caitlin,Chan,chanc18@avphs.net;
+Caitlin,Zuchowski,zuchowskic@avphs.net;
+Caleb,Gardner,gardnerc22@avphs.net;
+Callahan,Blischke,blischkec19@avphs.net;
+Calvind,Macaraig,macaraigc20@avphs.net;
+Cameron,Turner,turnerc19@avphs.net;
+Cameron,Estes,estesc22@avphs.net;
+Cameron,Olive,olivec19@avphs.net;
+Camya,BookerGibson,bookergibsonc21@avphs.net;
+Candace,Zuchowski,zuchowskic17@avphs.net;
+Candice,Cortes,cortesc21@avphs.net;
+Canon,Admin,canadmin@paracletehs.org;
+Carl,Ladensack,cladensack@paracletehs.org;
+Carl,Ladensack,cladensack@avphs.net;
+Carlo,Morones,moronesc17@avphs.net;
+Carlos,Serna,sernac22@avphs.net;
+Carlos,Morales,moralesc22@avphs.net;
+Carly,Sablan,sablanc19@avphs.net;
+Carly,Pimentel,pimentelc22@avphs.net;
+Carly,Hooten,hootenc20@avphs.net;
+Carolina,Cotero,coteroc22@avphs.net;
+Carolina,Galvan,galvanc21@avphs.net;
+Carolyn,Hibbert,hibbertc20@avphs.net;
+Carson,Davis,davisc20@avphs.net;
+Carter,Dickinson,dickinsonc18@avphs.net;
+Casi,Petrosian,petrosianc22@avphs.net;
+Cassandra,Castillo,castilloc21@avphs.net;
+Cassandra,Buckley,buckleyc19@avphs.net;
+Cassidy,Loprino,loprinoc20@avphs.net;
+Cassie,Velazquez,velazquezc21@avphs.net;
+Cassity,Columbo,columboc19@avphs.net;
+Catherine,Lacsamana,lacsamanac17@avphs.net;
+Catherine,Singleton,singletonc21@avphs.net;
+Cavoseay,Fisher,fisherc22@avphs.net;
+Cecilie,Petersen,petersenc17@avphs.net;
+Charisma,Stafford,staffordc17@avphs.net;
 Charlene,Gallagher,gallagherc18@avphs.net,Active,2018/07/19 23:57:58,0.65GB
 Charlene,Victoria,victoriac19@avphs.net,Active,2019/03/13 13:45:58,2.36GB
 Charles,Gaharan,gaharanc19@avphs.net,Active,2019/03/16 08:54:13,1.04GB
